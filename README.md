@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # my-site-client
 
 ## Project setup
