@@ -4,7 +4,7 @@
 ```
 npm install
 ```
-#### view in childqjj.com
+#### view in ![childqjj.com](个人博客网站)
 ### Compiles and hot-reloads for development
 ```
 npm run serve
@@ -19,4 +19,3 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 =======
 # Child-Blog
->>>>>>> 1892fc08941ce2a0732089b2b9dc2b66dbac8c1b
