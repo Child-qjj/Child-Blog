@@ -20,7 +20,8 @@
 - Aplayer音乐播放器(这里用到了Vue-player插件,虽然在后面的项目中已经可以自己实现相同的功能,但是目前不会进行重构)
 - 评论留言
 
-![留言](https://child-qjj.github.io/ImgStorage/markdownImages/share.png)![image-20201030153812061](https://child-qjj.github.io/ImgStorage/markdownImages/share2.png)
+![留言](https://child-qjj.github.io/ImgStorage/markdownImages/share.png)
+![留言2](https://child-qjj.github.io/ImgStorage/markdownImages/share2.png)
 
 登录页面:
 
