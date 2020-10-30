@@ -24,7 +24,7 @@
 
 登录页面:
 
-![登录)](https://child-qjj.github.io/ImgStorage/markdownImages/login.png)
+![登录](https://child-qjj.github.io/ImgStorage/markdownImages/login.png)
 
 文章管理页面:
 
@@ -32,7 +32,7 @@
 - 文章管理
 - 新建文章
 
-![管理)](https://child-qjj.github.io/ImgStorage/markdownImages/manage.png)
+![管理](https://child-qjj.github.io/ImgStorage/markdownImages/manage.png)
 
 ### 新建文章页面
 
