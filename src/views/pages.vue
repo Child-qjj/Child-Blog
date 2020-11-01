@@ -7,16 +7,22 @@
             </el-breadcrumb>
         </div>
        <div class="content">
+           <h1>{{art.title}}</h1>
             <article>
-            <h1>{{art.title}}</h1>
-            <section v-html="art.html" v-highlight></section>
+            
+            <mavon-editor class="md" v-html="art.html" :subfield="false" :toolbarsFlag="false" :boxShadow="false" :ishljs="true" v-highlight/>
+            <!-- <section v-html="art.html" v-highlight></section> -->
             </article>
        </div>
     </div>
 </template>
 <script>
+import { mavonEditor } from 'mavon-editor'
 export default {
     name:'page',
+    components:{
+        mavonEditor
+    },
     data(){
         return{
             art:''

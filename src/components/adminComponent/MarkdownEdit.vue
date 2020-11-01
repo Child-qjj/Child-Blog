@@ -67,7 +67,7 @@ import upload from './upload'
 export default {
     name:'markdown',
     components: {
-        mavonEditor,
+        mavonEditor,   
         upload
     },
     data() {
